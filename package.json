@@ -1,0 +1,27 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "movies released and can be download from this website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soutmesa/nodejs.git"
+  },
+  "author": "SOT Mesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soutmesa/nodejs/issues"
+  },
+  "homepage": "https://github.com/soutmesa/nodejs#readme",
+  "keywords": [
+    "movies",
+    "torrents",
+    "yts"
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
